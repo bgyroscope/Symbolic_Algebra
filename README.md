@@ -4,5 +4,5 @@ This is a package that preforms symbolic algebra manipulations using a dictionar
 
 
 This class has the following methods: 
-* init the expression --> expression( list of coefficients, list of expressions as strings ) 
+* init the expression &rarr expression( list of coefficients, list of expressions as strings ) 
 * copy --> 
